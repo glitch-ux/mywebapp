@@ -1,0 +1,7 @@
+C:\Users\jose.p.maia\Desktop\Teste\MyWebApp.exe
+C:\Users\jose.p.maia\Desktop\Teste\appsettings.Development.json
+C:\Users\jose.p.maia\Desktop\Teste\appsettings.json
+C:\Users\jose.p.maia\Desktop\Teste\MyWebApp.dll
+C:\Users\jose.p.maia\Desktop\Teste\MyWebApp.deps.json
+C:\Users\jose.p.maia\Desktop\Teste\MyWebApp.runtimeconfig.json
+C:\Users\jose.p.maia\Desktop\Teste\MyWebApp.pdb
